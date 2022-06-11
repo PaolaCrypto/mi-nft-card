@@ -1,13 +1,14 @@
 .attribution {
-    font-size: 11px;
+    font-size: 18px;
     text-align: center;
     color: aqua;
 }
 
 
 .card-info {
-    max-width: 600px;
+    max-width: 375px;
     padding: 10px;
     border: 1px solid brown;
     color: red;
+    font-family: 'Outfit', sans-serif;
 }
