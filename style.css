@@ -1,7 +1,7 @@
 .attribution {
-    font-size: 18px;
+    font-size: 11px;
     text-align: center;
-    color: aqua;
+    color: white;
 }
 
 
@@ -9,6 +9,22 @@
     max-width: 375px;
     padding: 10px;
     border: 1px solid brown;
-    color: red;
     font-family: 'Outfit', sans-serif;
+    margin: 0 auto;
+}
+body {
+    background-color: hsl(217, 54%, 11%)
+    
+}
+img .crypto-sign {
+    color: aqua;
+}
+span {
+    color: aliceblue;
+}
+em {
+    color: hsl(0, 0%, 100%);
+}
+p {
+    color: hsl(215, 51%, 70%);
 }
