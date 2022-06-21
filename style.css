@@ -9,9 +9,12 @@
     max-width: 375px;
     padding: 10px;
     border: 1px solid brown;
-    border-width: 1px;
+    border-radius: 20px;
     font-family: 'Outfit', sans-serif;
     margin: 0 auto;
+    width: 250px;
+
+      
 }
 body {
     background-color: hsl(217, 54%, 11%)
@@ -23,12 +26,13 @@ img .crypto-sign {
 
 em {
     color: hsl(0, 0%, 100%);
+    display: block;
 }
 p {
     color: hsl(215, 51%, 70%);
 }
 .crypto-price {
-    color: hsl(178, 100%, 50%)
+    color: hsl(178, 100%, 50%);
 }
 .time-left {
     color: hsl(215, 51%, 70%);
@@ -38,4 +42,18 @@ p {
 }
 .name {
     color: hsl(0, 0%, 100%);
+}
+span .crypto-price {
+    margin: 20px;
+    width: 10px;
+    text-align: left;
+    padding: 10px;
+}
+img {
+    margin: 0 auto;
+    display: inline;
+    border-radius: 20px;
+}
+span {
+    width: 20px;
 }
