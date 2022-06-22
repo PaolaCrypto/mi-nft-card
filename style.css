@@ -12,7 +12,7 @@
     border-radius: 20px;
     font-family: 'Outfit', sans-serif;
     margin: 0 auto;
-    width: 250px;
+    width: 300px;
 
       
 }
@@ -20,7 +20,7 @@ body {
     background-color: hsl(217, 54%, 11%)
     
 }
-img .crypto-sign {
+img.crypto-sign {
     color: aqua;
 }
 
@@ -33,9 +33,11 @@ p {
 }
 .crypto-price {
     color: hsl(178, 100%, 50%);
+    
 }
 .time-left {
     color: hsl(215, 51%, 70%);
+    display: inline;
 }
 .author {
     color: hsl(215, 51%, 70%);;
@@ -50,10 +52,21 @@ span .crypto-price {
     padding: 10px;
 }
 img {
-    margin: 0 auto;
-    display: inline;
     border-radius: 20px;
 }
 span {
     width: 20px;
+}
+ul {
+    text-align: left;
+    margin: 20px;
+}
+img.time-left {
+    width: 20px;
+}
+img.nft-image {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    padding: 10px;
 }
