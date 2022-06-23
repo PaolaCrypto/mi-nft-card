@@ -22,8 +22,7 @@ body {
 }
 img.crypto-sign {
     color: aqua;
-    float: left;
-    text-align: left;
+    margin-left: -1.5em;
 }
 
 em {
