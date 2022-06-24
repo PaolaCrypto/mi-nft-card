@@ -78,3 +78,14 @@ hr {
     border-style: solid none none;
     border-width: 2px 0 0;
 }
+em:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+.name:hover {
+    color: hsl(178, 100%, 50%);
+    cursor: pointer;
+}
+img.nft-image:hover {
+    color: hsl(178, 100%, 50%);
+}
