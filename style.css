@@ -1,91 +1,86 @@
 .attribution {
-    font-size: 11px;
-    text-align: center;
-    color: white;
+  font-size: 11px;
+  text-align: center;
+  color: white;
 }
-
 
 .card-info {
-    max-width: 375px;
-    padding: 10px;
-    border: 1px solid hsl(215, 32%, 27%);
-    border-radius: 20px;
-    font-family: 'Outfit', sans-serif;
-    margin: 0 auto;
-    width: 300px;
-
-      
+  max-width: 375px;
+  padding: 10px;
+  border: 1px solid hsl(215, 32%, 27%);
+  border-radius: 20px;
+  font-family: "Outfit", sans-serif;
+  margin: 0 auto;
+  width: 300px;
 }
 body {
-    background-color: hsl(217, 54%, 11%)
-    
+  background-color: hsl(217, 54%, 11%);
 }
 img.crypto-sign {
-    color: aqua;
-    margin-left: -3.5em;
+  color: aqua;
+  margin-left: -1.5em;
 }
 
 em {
-    color: hsl(0, 0%, 100%);
-    display: block;
+  color: hsl(0, 0%, 100%);
+  display: block;
 }
 p {
-    color: hsl(215, 51%, 70%);
+  color: hsl(215, 51%, 70%);
 }
 .crypto-price {
-    color: hsl(178, 100%, 50%);
-    
+  color: hsl(178, 100%, 50%);
 }
 .time-left {
-    color: hsl(215, 51%, 70%);
-    display: inline;
+  color: hsl(215, 51%, 70%);
+  display: inline;
 }
 .author {
-    color: hsl(215, 51%, 70%);;
+  color: hsl(215, 51%, 70%);
 }
 .name {
-    color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 100%);
 }
 span .crypto-price {
-    margin: 20px;
-    width: 10px;
-    text-align: left;
-    padding: 10px;
+  margin: 20px;
+  width: 10px;
+  text-align: left;
+  padding: 10px;
 }
 img {
-    border-radius: 20px;
+  border-radius: 20px;
 }
 span {
-    width: 20px;
+  width: 20px;
 }
-ul {
-    text-align: left;
-    margin: 20px;
+.crypto-info {
+  text-align: left;
+  margin: 20px;
 }
 img.time-left {
-    width: 20px;
-    margin-left: 5.5em;
+  width: 20px;
+  margin-left: 5.5em;
 }
 img.nft-image {
-    display: block;
-    margin: 0 auto;
-    width: 200px;
-    padding: 10px;
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  padding: 10px;
 }
 hr {
-    border-color: hsl(215, 32%, 27%);
-    border-image: none;
-    border-style: solid none none;
-    border-width: 2px 0 0;
+  border-color: hsl(215, 32%, 27%);
+  border-image: none;
+  border-style: solid none none;
+  border-width: 2px 0 0;
 }
 em:hover {
-    color: hsl(178, 100%, 50%);
-    cursor: pointer;
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 .name:hover {
-    color: hsl(178, 100%, 50%);
-    cursor: pointer;
+  color: hsl(178, 100%, 50%);
+  cursor: pointer;
 }
 img.nft-image:hover {
-    color: hsl(178, 100%, 50%);
+  color: hsl(178, 100%, 50%);
 }
