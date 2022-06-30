@@ -84,3 +84,12 @@ em:hover {
 img.nft-image:hover {
   color: hsl(178, 100%, 50%);
 }
+.image-nft {
+  position: relative;
+  display: block;
+  width: 100%;
+  background-color: cyan;
+}
+.image-nft:hover {
+  background-color: red;
+}
