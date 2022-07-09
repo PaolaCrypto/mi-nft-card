@@ -108,6 +108,8 @@ a::before {
 a::after {
   content: "";
   background-image: url(./images/icon-view.svg);
+  background-repeat: no-repeat;
+  background-position: center top;
   position: absolute;
   opacity: 0;
 }
