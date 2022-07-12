@@ -21,7 +21,7 @@ img.crypto-sign {
   margin-left: -1.5em;
 }
 
-em {
+h4 {
   color: hsl(0, 0%, 100%);
   display: block;
 }
@@ -73,7 +73,7 @@ hr {
   border-style: solid none none;
   border-width: 2px 0 0;
 }
-em:hover {
+h4:hover {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
